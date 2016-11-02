@@ -1,0 +1,18 @@
+<html>
+	<body style="width:100%; background-color:black;margin:auto;">
+		<div style="width:80%; background-color:grey;margin:auto;display:block;">
+
+			<div style="width:80%; height:150px;margin:auto;">
+				<img src="logo.jpg" style=" width: 150px;float:left;"/>
+				<div style="font-size:90px;font-style:italic;float:left;">Malax Musique</div>
+			</div>
+			<br/>
+			<br/>
+			<br/>
+			<div style="width:80%; height:150px;margin:auto;">
+				<h1 style="text-align:center;font-size:60px;font-family:Rockwell;"> Site en cours de construction </h1>
+				<p style="text-align:center;"> Des changements sont en cours de réalisations... Revenez dans quelques jours. </p>
+			</div>
+		</div>
+	</body>
+</html>
